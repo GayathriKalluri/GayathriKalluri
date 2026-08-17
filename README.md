@@ -275,11 +275,10 @@ I'm continuously strengthening my knowledge across **AI, software engineering, c
 </p>
 
 ---
-
-# 🐍 Contribution Graph
+## 🐍 My GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GayathriKalluri/GayathriKalluri/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/GayathriKalluri/GayathriKalluri/output/github-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
