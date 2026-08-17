@@ -267,11 +267,11 @@ I'm continuously strengthening my knowledge across **AI, software engineering, c
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GayathriKalluri&show_icons=true&theme=transparent&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GayathriKalluri&layout=compact&theme=transparent&hide_border=true" height="170"/>
+  <img src="./profile/stats.svg" height="180" alt="Gayathri's GitHub Statistics" />
+  <img src="./profile/top-langs.svg" height="180" alt="Gayathri's Top Languages" />
 </p>
 
 ---
